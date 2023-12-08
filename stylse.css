@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: green
+}
+body p{
+text-align: center;
+box-shadow: 10pc;
+}
